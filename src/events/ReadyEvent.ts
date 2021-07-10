@@ -8,7 +8,6 @@ export default class ReadyEvent extends DiscordEvent {
     }
 
     async execute(client: Client, ...args: any[]) {
-        client.user?.setActivity({name: "TypeCord [Typescript]", type: "PLAYING"});
         logINFO(`${client.user?.username} is online and ready to use! `);
     }
 }
