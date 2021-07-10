@@ -12,7 +12,7 @@ A easy to use typescript discord bot template
 
 Typecord requires [Node.js](https://nodejs.org/) to run.
 
-Install the dependencies and devDependencies and coding.
+Install the dependencies, edit the '.env' and start coding!
 
 ```sh
 npm i
