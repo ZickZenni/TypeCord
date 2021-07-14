@@ -6,7 +6,6 @@ A easy to use typescript discord bot template
 
 - Command System
 - Event System
-- A custom logger
 
 ## Installation
 
